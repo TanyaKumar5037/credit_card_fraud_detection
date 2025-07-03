@@ -24,6 +24,7 @@ Credit card fraud is rare but costly. In this project, we use machine learning t
 - Imbalanced-learn (SMOTE)
 - Streamlit
 - Matplotlib & Seaborn
+- DATA- This project uses the public [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  
 
 ## 🔍 How to Use
 
